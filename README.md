@@ -1,9 +1,10 @@
 # wallets
 
-This is WIP project for collecting and analysis data from cryto wallet
+This is WIP project for collecting and analysis data from cryto wallets
+
 
 ### Installing pipenv
-- `pip install `
+- `python3.8 -m pip install pipenv`
 
 ### Installing dependencies using pipenv
 - `pipenv install`
